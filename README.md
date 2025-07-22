@@ -4,7 +4,7 @@ AI ResearchBot is an AI-driven research assistant that retrieves, ranks, and sum
 
 ---
 
-## Setup Instructions (Local Environment)
+## Setup Instructions (Locl Environment)
 
 ### 1. Download Project Files
 
