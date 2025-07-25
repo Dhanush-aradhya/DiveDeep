@@ -8,7 +8,7 @@ AI ResearchBot is an AI-driven research assistant that retrieves, ranks, and sum
 
 ### 1. Download Project Files
 
-Download all the project files and place them in a single directory on your system.
+Download all the project files and place them in a single directory on your system
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
 
