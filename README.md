@@ -2,7 +2,7 @@ AI ResearchBot
 
 AI ResearchBot is an AI-driven research assistant that retrieves, ranks, and summarizes research papers based on a user's query. It combines the power of web scraping and large language models (LLMs) to offer relevant results with minimal effort from the user. The interface is built using Streamlit and served via a Flask wrapper for better integration and launch flexibility.
 
---
+---
 
 ## Setup Instructions (Local Environment)
 
